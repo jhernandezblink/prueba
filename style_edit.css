@@ -1,3 +1,11 @@
 #indice .unit-content .actividades .add, #indice .unit-content .material .add {
   background: #91BDFF repeat-y -1px;
 }
+
+
+if( !empty($styleAssets) ){
+    border: 1px solid  #ff8524 ;
+    outline-color:  #ff8524 ;
+}
+
+

@@ -1,6 +1,6 @@
 
 #indice .unit-content .actividades .add, #indice .unit-content .material .add {
-  background: #c3dfa5 repeat-y -1px;
+  background: red repeat-y -1px;
 }
 
 body.edit #indice .unit-content .actividades .add, #indice .unit-content .material .add {
